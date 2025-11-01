@@ -1,10 +1,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/raldawsari/raldawsari/blob/main/assets/banner.png" width="100%" alt="Rawan Aldosari Banner"/>
+  <img src="https://github.com/raldawsari/raldawsari/blob/main/assets/banner.png" width="100%" alt="Rawan Aldawsari Banner"/>
 </p>
 
-<h1 align="center">Hi there, I'm Rawan Aldosari</h1>
+<h1 align="center">Hi there, I'm Rawan Aldawsari</h1>
 <h3 align="center">Computer Science Student | AI Enthusiast | Flutter Developer</h3>
 
 ---
@@ -142,5 +142,3 @@ mindmap
 </p>
 
 ---
-
-هل تبغيني أجهز لك بانر احترافي بالحجم المناسب (1920×480) بالألوان الخاصة فيك عشان تضيفينه في الجزء العلوي؟
