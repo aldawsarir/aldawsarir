@@ -1,5 +1,3 @@
----
-
 <div style="background-color:#fffdf9; padding:40px; border-radius:12px; line-height:1.9; font-family:'Segoe UI', sans-serif;">
 
 <h1 align="center" style="color:#e74c3c; font-size:32px;">Hi there, I'm <span style="color:#3498db;">Rawan Aldosari</span></h1>
@@ -99,5 +97,3 @@ D --> E[(JWT Authentication)]
 </p><p align="center" style="color:#555;">
 Made with <span style="color:#e74c3c;">❤</span> by <a href="https://github.com/raldawsari" style="color:#3498db;">Rawan Aldosari</a>
 </p></div>
-
----
