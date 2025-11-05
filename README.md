@@ -1,151 +1,115 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Rawan Aldosari – Notability Style README</title>
+<div style="
+  background-color:#fdfbf6;
+  background-image: radial-gradient(#cfcfcf 0.5px, transparent 0.5px);
+  background-size: 20px 20px;
+  padding:40px;
+  border-radius:18px;
+  font-family:'Patrick Hand', 'Segoe UI', sans-serif;
+  line-height:1.9;
+  color:#333;
+">
 
-<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Indie+Flower&family=Patrick+Hand&display=swap" rel="stylesheet">
-<style>
-body {
-  background: #fcfcfc url('https://i.imgur.com/q3qUgSx.png') repeat; /* dotted notebook pattern */
-  font-family: 'Patrick Hand', 'Caveat', 'Indie Flower', cursive;
-  color: #333;
-  line-height: 1.9;
-  padding: 40px;
-  font-size: 20px;
-}
+<h1 align="center" style="color:#e74c3c; font-size:36px; font-family:'Patrick Hand';">
+✨ Hi there, I'm <span style="color:#3498db;">Rawan Aldosari 👋</span>
+</h1>
 
-/* colorful highlighters */
-mark.pink   { background-color: #ffd1dc; }
-mark.blue   { background-color: #cce5ff; }
-mark.green  { background-color: #d4f8d4; }
-mark.yellow { background-color: #fff6a3; }
-mark.purple { background-color: #e5d4ff; }
-mark.orange { background-color: #ffe0b2; }
+<h3 align="center" style="color:#16a085; font-size:22px;">
+Computer Science Student · AI Enthusiast · Flutter Developer
+</h3>
 
-h1, h2, h3 {
-  text-align: center;
-  color: #444;
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-h1 span { color:#3b82f6; }
-ul, p { margin-left: 20px; }
+<p align="center" style="font-family:'Patrick Hand'; font-size:18px;">
+💻 AI Engineer in progress · 💡 Loves Building Smart Apps · ☕ Fueled by Tea · 💫 Always Learning Something New!
+</p>
 
-a { color:#0077b5; text-decoration:none; }
-a:hover { text-decoration:underline; }
+<hr style="border: none; border-top: 2px dashed #f39c12; width: 80%; margin: 30px auto;">
 
-.section {
-  background: rgba(255,255,255,0.8);
-  border-radius: 12px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05);
-  padding: 25px;
-  margin-bottom: 35px;
-}
+<h2 style="color:#9b59b6;">🌸 About Me</h2>
+<ul style="font-size:18px;">
+<li>👩🏻‍💻 Final-year <b style="background-color:#ffe6e6;">Computer Science Student</b> at <b>Taif University</b>.</li>
+<li>💡 Passionate about <mark style="background-color:#f9ebea;">Artificial Intelligence</mark> & <mark style="background-color:#eafaf1;">Smart Applications</mark>.</li>
+<li>📚 Currently learning <mark style="background-color:#fcefe3;">Next.js</mark>, <mark style="background-color:#e8f8f5;">Node.js</mark>, and <mark style="background-color:#fcf3cf;">PostgreSQL</mark>.</li>
+<li>🎯 2025 Goal → Become a professional <b style="background-color:#f5eef8;">AI Engineer</b>.</li>
+<li>☕ Fun fact → I can’t code without tea 🫖.</li>
+</ul>
 
-/* table style hand-drawn look */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 19px;
-}
-th, td {
-  border: 2px dashed #ccc;
-  padding: 8px 12px;
-}
-th {
-  background-color: #fafafa;
-  color: #333;
-}
+<hr style="border: none; border-top: 2px dashed #9b59b6; width: 70%; margin: 30px auto;">
 
-/* simulate underline colors for fun */
-.underline-blue { text-decoration: underline wavy #7eb6ff; }
-.underline-green { text-decoration: underline wavy #a8e6a3; }
-.underline-pink { text-decoration: underline wavy #ff9ecb; }
-.underline-yellow { text-decoration: underline wavy #ffe57f; }
-</style>
-</head>
+<h2 style="color:#e67e22;">🎖 Badges & Highlights</h2>
+<p align="center" style="font-size:18px;">
+<span style="background-color:#fbeee6;">🎓 Taif University</span> ·
+<span style="background-color:#eaf2f8;">🧠 AI Engineer in Progress</span> ·
+<span style="background-color:#fcf3cf;">☕ Tea Addict</span> ·
+<span style="background-color:#e8f8f5;">💬 Open to Collaboration</span>
+</p>
 
-<body>
+<hr style="border: none; border-top: 2px dashed #16a085; width: 70%; margin: 30px auto;">
 
-<h1>Hi there, I'm <span>Rawan Aldosari 👋</span></h1>
-<h3>Computer Science Student | AI Enthusiast | Flutter Developer</h3>
-
-<div class="section">
+<h2 style="color:#2c3e50;">🧩 Tech Stack</h2>
 <p align="center">
-🧠 <mark class="blue">AI Engineer in progress</mark> | 💡 <mark class="green">Loves Building Smart Apps</mark> | ☕ <mark class="yellow">Fueled by Tea</mark> | 💫 Always Learning Something New!
+  <img src="https://skillicons.dev/icons?i=python,flutter,react,nextjs,nodejs,express,postgresql,html,css,js,tailwind,firebase,git,github,vscode,figma&perline=8" />
 </p>
-</div>
 
-<div class="section">
-<h2>About Me</h2>
-<ul>
-<li>👩🏻‍💻 Final-year <b>Computer Science Student</b> at Taif University.</li>
-<li>💡 Passionate about <mark class="purple">Artificial Intelligence</mark> & <mark class="orange">Smart Applications</mark>.</li>
-<li>📚 Currently learning <mark class="pink">Next.js</mark>, <mark class="green">Node.js</mark>, and <mark class="yellow">PostgreSQL</mark>.</li>
-<li>🎯 2025 Goal: Become a professional <b>AI Engineer</b>.</li>
-<li>☕ Fun fact: I can’t code without tea.</li>
-</ul>
-</div>
+<hr style="border: none; border-top: 2px dashed #f1c40f; width: 70%; margin: 30px auto;">
 
-<div class="section">
-<h2>Badges & Highlights</h2>
-<p>🎓 Taif University    🧠 AI Engineer in Progress    ☕ Tea Addict    💬 Open to Collaboration</p>
-</div>
+<h2 style="color:#2980b9;">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raldawsari&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldawsari&layout=compact&theme=tokyonight" height="160px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raldawsari&theme=tokyonight" height="160px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raldawsari&theme=react-dark"/>
+</p>
 
-<div class="section">
-<h2>Tech Stack</h2>
-<p>🐍 Python    💙 Flutter    ⚛ React    🔵 Next.js    🟢 Node.js    🟠 Express    🗃 PostgreSQL    🔥 Firebase</p>
-</div>
+<hr style="border: none; border-top: 2px dashed #e74c3c; width: 70%; margin: 30px auto;">
 
-<div class="section">
-<h2>Featured Projects</h2>
-<table>
+<h2 style="color:#8e44ad;">🪩 Featured Projects</h2>
+<table style="font-size:18px; width:100%; border-collapse:collapse;">
 <tr><th>Project</th><th>Description</th><th>Tech Stack</th></tr>
-<tr><td><b><a href="#">My AI University 📱</a></b></td><td>Smart university life organizer powered by AI.</td><td><mark class="yellow">Flutter • Firebase • GPT</mark></td></tr>
-<tr><td><b><a href="#">Vortex AI 🌀</a></b></td><td>AI-powered visual search system for students & researchers.</td><td><mark class="green">Python • OpenCV • TensorFlow</mark></td></tr>
-<tr><td><b><a href="#">Auth System 🔐</a></b></td><td>Authentication platform with Next.js & Node.js.</td><td><mark class="pink">Next.js • Express • PostgreSQL</mark></td></tr>
+<tr><td><b><a href="https://github.com/raldawsari/MyAIUniversity" style="color:#3498db;">My AI University 📱</a></b></td><td>Smart university life organizer powered by AI.</td><td><span style="color:#f39c12;">Flutter • Firebase • GPT</span></td></tr>
+<tr><td><b><a href="https://github.com/raldawsari/Vortex-AI" style="color:#9b59b6;">Vortex AI 🌀</a></b></td><td>AI-powered visual search system for students & researchers.</td><td><span style="color:#16a085;">Python • OpenCV • TensorFlow</span></td></tr>
+<tr><td><b><a href="https://github.com/raldawsari/auth-system" style="color:#e74c3c;">Auth System 🔐</a></b></td><td>Authentication platform with Next.js & Node.js.</td><td><span style="color:#27ae60;">Next.js • Express • PostgreSQL</span></td></tr>
 </table>
-</div>
 
-<div class="section">
-<h2>Goals & Learning</h2>
-<ul>
-<li>🌱 Currently learning: Machine Learning & Deep Learning.</li>
-<li>🎯 2025 Goal: Build an AI-powered educational app.</li>
-<li>🚀 Join an AI startup and contribute to open-source AI projects.</li>
+<hr style="border: none; border-top: 2px dashed #f39c12; width: 70%; margin: 30px auto;">
+
+<h2 style="color:#c0392b;">🎯 Goals & Learning</h2>
+<ul style="font-size:18px;">
+<li>🌱 Currently learning: <b style="background-color:#e8f8f5;">Machine Learning</b> & <b style="background-color:#fbeee6;">Deep Learning</b>.</li>
+<li>🎯 Goal → Build an <b style="background-color:#fdf2e9;">AI-powered Educational App</b>.</li>
+<li>🚀 Aim → Join an <mark style="background-color:#fcf3cf;">AI startup</mark> & contribute to <mark style="background-color:#eaf2f8;">open-source projects</mark>.</li>
 </ul>
-</div>
 
-<div class="section">
-<h2>Roadmap</h2>
-<ul>
-<li class="underline-green">✔ Build GitHub community GitHubians.</li>
-<li class="underline-blue">✔ Create full-stack auth system.</li>
-<li class="underline-pink">✔ Complete Flutter AI App.</li>
-<li class="underline-yellow">⏳ Publish open-source AI library.</li>
-<li>🚀 Join an AI startup.</li>
+<hr style="border: none; border-top: 2px dashed #9b59b6; width: 70%; margin: 30px auto;">
+
+<h2 style="color:#2980b9;">🗺 System Architecture</h2>
+
+<pre style="background-color:#f9f9f9; padding:10px; border-radius:10px; border:1px dashed #ddd; font-family:'Patrick Hand'; font-size:17px;">
+User → Frontend (Next.js)
+Frontend → Backend (Express.js)
+Backend → Database (PostgreSQL)
+Database → JWT Authentication 🔒
+</pre>
+
+<hr style="border: none; border-top: 2px dashed #16a085; width: 70%; margin: 30px auto;">
+
+<h2 style="color:#8e44ad;">🏆 Achievements</h2>
+<ul style="font-size:18px;">
+<li>🏅 Microsoft Certified: AI Fundamentals</li>
+<li>🏆 SDAIA – AI Bootcamp Graduate</li>
+<li>🎓 Dean’s Honor List – Taif University</li>
 </ul>
-</div>
 
-<div class="section">
-<h2>Achievements</h2>
-<ul>
-<li>🏅 Microsoft Certified: AI Fundamentals.</li>
-<li>🏆 SDAIA – AI Bootcamp Graduate.</li>
-<li>🎓 Dean’s Honor List – Taif University.</li>
-</ul>
-</div>
+<hr style="border: none; border-top: 2px dashed #f1c40f; width: 70%; margin: 30px auto;">
 
-<div class="section">
-<h2>Quote</h2>
-<p style="text-align:center;font-style:italic;">
-<mark class="yellow">"The best code you’ll ever write is the one that changes someone’s life."</mark><br>
-— Rawan Aldosari
+<h2 style="color:#c0392b;">💬 Quote</h2>
+<p style="text-align:center; font-size:20px; color:#2c3e50; font-style:italic;">
+“The best code you’ll ever write is the one that changes someone’s life.”<br> — <b>Rawan Aldosari</b>
+</p>
+
+<p align="center" style="font-family:'Patrick Hand'; color:#555;">
+Made with ☕ & ❤ by <a href="https://github.com/raldawsari" style="color:#3498db;">Rawan Aldosari</a>
 </p>
 </div>
-
-<p align="center">Made with ❤ by Rawan Aldosari</p>
-
-</body>
-</html>
